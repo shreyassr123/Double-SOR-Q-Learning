@@ -25,6 +25,19 @@ These implementations leverage deep reinforcement learning techniques to explore
 
 ## Acknowledgements
 
-The code for the environments and experiments in this repository is sourced from various pages and repositories. Proper acknowledgements are provided in the respective files. Please refer to those files for specific sources and credits.
+### Tabular Version
 
+The numerical implementation of the tabular Double SOR Q-Learning version, including the roulette and grid world environments, is based on the examples presented in the paper:
 
+- **Double Q-Learning** by Hado van Hasselt (2010), NeurIPS.
+
+We acknowledge the contributions of Hado van Hasselt and the NeurIPS conference for providing foundational methods that have influenced this work. The code and methodology are inspired by and extend the ideas described in this seminal paper.
+
+### Deep RL Version
+
+The code for the following environments is sourced from the specified GitHub pages:
+
+- **CartPole and Lunar Lander Environments**: [Stochastic Expatriate Descent - Double DQN](https://github.com/davidrpugh/stochastic-expatriate-descent/blob/2020-04-11-double-dqn/_notebooks/2020-04-11-double-dqn.ipynb)
+- **Maximization Bias Example**: [The Mean Squared Error of Double Q-Learning - Bias(nn)](https://github.com/wentaoweng/The-Mean-Squared-Error-of-Double-Q-Learning/tree/main/Bias(nn))
+
+We appreciate the authors and maintainers of these repositories for their contributions, which have been instrumental in the development of this work. The provided code and methods have been adapted and extended to fit the context of this project.
