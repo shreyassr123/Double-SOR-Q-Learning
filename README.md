@@ -1,6 +1,6 @@
 # Double Successive Over-Relaxation Q-Learning with an Extension to Deep Reinforcement Learning
 
-This repository contains codes related to the paper on Double Successive Over-Relaxation Q-Learning with an extension to Deep Reinforcement Learning (DRL). The project is organized into two main folders: one for the tabular version of Double SOR Q-Learning and one for the Deep RL version.
+This repository contains the code for the numerical simulations conducted in the paper titled "Double Successive Over-Relaxation Q-Learning with an Extension to Deep Reinforcement Learning," available on [arXiv](https://doi.org/10.48550/arXiv.2409.06356). The project is organized into two main folders: one for the tabular version of Double SOR Q-Learning and one for the Deep RL version.
 
 ## Project Structure
 
