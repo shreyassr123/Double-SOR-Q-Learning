@@ -1,7 +1,7 @@
 from Run import *
 
 gamma   = 0.95
-noSteps = 10**5
+noSteps = 10**4
 noRuns  = 1000
 exp     = "egreedy1divn^0.5"
 # lrs     = [ "1divn^0.8", "1divn" ]
