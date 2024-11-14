@@ -8,8 +8,8 @@ This repository contains the code for the numerical simulations conducted in the
 
 The `Tabular_Version` folder contains Python code to run environments and experiments for:
 
-- **Roulette Environment**
-- **Grid World Environment**
+- **Roulette**
+- **Grid World**
 
 This folder also includes the necessary files for plotting results and analyzing performance.
 
